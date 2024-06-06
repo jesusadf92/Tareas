@@ -1,0 +1,13 @@
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.AssemblyInfoInputs.cache
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.AssemblyInfo.cs
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.csproj.CoreCompileInputs.cache
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.exe
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.deps.json
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.runtimeconfig.json
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.runtimeconfig.dev.json
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.dll
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\bin\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.pdb
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.dll
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.pdb
+C:\Users\jesus.delapaz\source\repos\ConsoleApp_CajeroATM\ConsoleApp_CajeroATM\obj\Debug\netcoreapp3.1\ConsoleApp_CajeroATM.genruntimeconfig.cache

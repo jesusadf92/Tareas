@@ -1,0 +1,13 @@
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.AssemblyInfoInputs.cache
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.AssemblyInfo.cs
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.exe
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.deps.json
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.runtimeconfig.json
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.runtimeconfig.dev.json
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.dll
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.pdb
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.dll
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.pdb
+C:\Users\jesus.delapaz\source\repos\SimpleMath\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.genruntimeconfig.cache

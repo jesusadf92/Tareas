@@ -1,0 +1,13 @@
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.exe
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.deps.json
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.runtimeconfig.json
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.runtimeconfig.dev.json
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.dll
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\bin\Debug\netcoreapp3.1\Clase 4 pilares.pdb
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.AssemblyInfoInputs.cache
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.AssemblyInfo.cs
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.csproj.CoreCompileInputs.cache
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.dll
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.pdb
+C:\Users\jesus.delapaz\source\repos\Clase 4 pilares\Clase 4 pilares\obj\Debug\netcoreapp3.1\Clase 4 pilares.genruntimeconfig.cache

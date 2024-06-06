@@ -1,0 +1,13 @@
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.exe
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.deps.json
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.runtimeconfig.json
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.runtimeconfig.dev.json
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.dll
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\netcoreapp3.1\CuentaBancaria.pdb
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.AssemblyInfo.cs
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.dll
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.pdb
+C:\Users\jesus.delapaz\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\netcoreapp3.1\CuentaBancaria.genruntimeconfig.cache
